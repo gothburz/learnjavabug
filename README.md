@@ -1,4 +1,4 @@
-*本项目仅用于安全研究，禁止使用本项目发起非法攻击，造成的后果使用者负责*
+*This project is only used for security research, it is forbidden to use this project to launch illegal attacks, and users are responsible for the consequences*
 
 ---
 
